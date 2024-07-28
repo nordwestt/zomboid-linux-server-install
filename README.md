@@ -1,4 +1,4 @@
-# Project Zomboid Server Installer
+# 🧟 Project Zomboid Server Installer
 
 This script automates the installation and setup of a dedicated server for Project Zomboid, the popular multiplayer zombie survival game.
 
